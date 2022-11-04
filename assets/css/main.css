@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.exchange-calculater {
+    background-image: linear-gradient(154deg, #2b3b48 32%, #8093a5 115%);
+}
+.icon-arrow{
+    background: url('../img/arrow.svg') no-repeat center;
+}
